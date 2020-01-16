@@ -5,7 +5,6 @@ Date: 2020/01/16
 
 int main (void) {
 	printf("Alvin Wong")
+	printf("Computer Science\n");	
 	return 0;
-	
-	
 }
